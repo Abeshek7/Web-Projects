@@ -1,9 +1,7 @@
-Rock Paper Scissor Game
-A classic Rock Paper Scissors web game built using HTML, CSS, and JavaScript, designed for fun and learning. Challenge the computer and test your luck and strategy!
+🚀Rock Paper Scissor
+A playful web game built with HTML, CSS, and JavaScript—created for both fun and learning. Put your luck and strategy to the test against the computer!
 
-🚀 Live Demo
-Play the game here:
-Rock Paper Scissor on Vercel
+👉 Play Rock Paper Scissor — Live Demo
 
 🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript
