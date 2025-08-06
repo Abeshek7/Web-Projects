@@ -19,8 +19,6 @@ Hosting: Deployed on Vercel
 <img width="1907" height="852" alt="image" src="https://github.com/user-attachments/assets/ccd37386-2377-4d73-9ec8-d0e55b092118" />
 
 
-text
-![Rock Paper Scissor Screenshot](../images/screenshot.png)
 🎮 Features
 Interactive UI with score tracking
 
@@ -44,5 +42,6 @@ Folder	Description
 images/	Graphics and icons
 scripts/	JavaScript files
 styles/	CSS files
+
 🤝 Contributing
 Contributions are welcome! Open an issue or pull request to suggest changes or improvements.
