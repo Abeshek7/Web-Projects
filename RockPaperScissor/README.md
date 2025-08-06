@@ -1,4 +1,4 @@
-*** Rock Paper Scissor ***
+** Rock Paper Scissor **
 
 A playful web game built with HTML, CSS, and JavaScript—created for both fun and learning. 
 Put your luck and strategy to the test against the computer!
@@ -6,6 +6,7 @@ Put your luck and strategy to the test against the computer!
 👉 [Play Rock Paper Scissor — Live Demo](https://rockpaperscissor-abesheks-projects.vercel.app/)
 
 🛠 Tech Stack
+
 Frontend: HTML, CSS, JavaScript
 
 Assets: Custom images and icons (located in /images)
@@ -20,7 +21,7 @@ Hosting: Deployed on Vercel
 <img width="1907" height="852" alt="image" src="https://github.com/user-attachments/assets/ccd37386-2377-4d73-9ec8-d0e55b092118" />
 
 
-🎮 Features
+Features:
 Interactive UI with score tracking
 
 Play against the computer
