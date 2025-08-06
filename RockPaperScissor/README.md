@@ -1,4 +1,5 @@
-🚀 Rock Paper Scissor
+*** Rock Paper Scissor ***
+
 A playful web game built with HTML, CSS, and JavaScript—created for both fun and learning. 
 Put your luck and strategy to the test against the computer!
 
